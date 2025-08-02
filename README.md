@@ -1,4 +1,4 @@
-# html-css-js-portfolio
+
 # Wendy Wangui | Aspiring Data Scientist Portfolio
 
 Welcome to Wendy Wangui’s personal portfolio website — a modern, responsive site showcasing Wendy's skills, education, projects, and services as an aspiring data scientist and future software engineer.
